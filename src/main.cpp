@@ -2,8 +2,8 @@
 #include <FastLED.h>
 
 #define LED_PIN     6
-#define NUM_LEDS    60
-#define BRIGHTNESS  89  // %35
+#define NUM_LEDS    (60*5)
+#define BRIGHTNESS  60  // %35
 
 // Yenileme araligi (50 Hz)
 #define FRAME_MS    20
