@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../ws2812_ambiance_led_for_ladder/ws2812_ambiance_ladder"
+		},
+		{
+			"name": "ardu_leo_ws2811",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
